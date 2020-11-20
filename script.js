@@ -81,6 +81,8 @@ function checkWinCondition() {
     }
 
     console.log("Žodis atspėtas!");
+    // Įdėjau papildomą logiką naujo žodžio sugeneravimui
+    // Dar viena eilutė
 }
 
 function addProgress(progressAmount) {
